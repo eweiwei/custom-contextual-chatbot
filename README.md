@@ -23,5 +23,5 @@ A customizable chatbot leveraging the power of AWS Bedrock to provide a versatil
 
 1. Clone the repository
 2. Install dependencies: pip install -r requirements.txt
-3. Set up your AWS credentials and configure Bedrock access.
-4. Run the Streamlit app
+3. Set up your AWS credentials w/ environment variables and configure Bedrock access.
+4. Run the Streamlit app: streamlit run chatbot.py
